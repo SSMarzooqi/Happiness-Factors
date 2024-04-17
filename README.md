@@ -35,7 +35,7 @@ To run the project, you will need:
 
 The repository contains the following files:
 
-- `happiness_analysis.ipynb`: Jupyter Notebook containing the main analysis code.
+- `Sultan Almarzooqi CMSE 201 Final Project.ipynb`: Jupyter Notebook containing the main analysis code.
 - `2019.csv`: Dataset used for the analysis (2019 World Happiness Report).
 - `README.md`: This README file.
 
